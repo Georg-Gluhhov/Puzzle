@@ -1,0 +1,36 @@
+img{
+    border: 3px solid #000000;
+    height: 5%;
+    width: 5%;
+}
+div{
+    width:100%;
+    height:100%;
+    background:#f1f1f1;
+    float:left;
+    margin: 0 15px 15px 0;
+    text-align:center;
+    padding: 10px;
+}
+
+#pilt19{
+    width: 200px;
+    height: 200px;
+}
+#pilt20{
+    width: 200px;
+    height: 200px;
+}
+#pilt21{
+    width: 400px;
+    height: 400px;
+}
+@keyframes myAnim {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
